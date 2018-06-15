@@ -15,7 +15,7 @@ class App extends Component {
     todos: [
       { id: 0, text: ' 리액트 시작', checked: false},
       { id: 1, text: ' JSX 사용', checked: true},
-      { id: 2, text: ' 라이프 사이클 이해', checked: false}
+      { id: 2, text: ' Hello life cycle', checked: false}
     ],
     color: '#343a40'
   }
